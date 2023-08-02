@@ -10,5 +10,5 @@
 |    mkdir      |   Create a directory               |
 |      mv       |   Move or rename files/directories |
 |      rm       |   Remove files/directories         |
-|     cd ..     |   move to parent directory         |
-
+|     cd -      |   move to parent directory         |
+| ls . .. /boot |   current, parent, /boot directory |
