@@ -5,4 +5,5 @@ CD change directory
 LS ls -l will list all files in a long format with the option -l
 LS ls -la will list all the hidden files and directories with the option -a
 LS ls -lna will do a long list, numeric IDs, hidden files and directory with the options -lna
+mkdir will make a directory with a specified path
 
