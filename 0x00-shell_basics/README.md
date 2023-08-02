@@ -7,5 +7,5 @@ LS ls -la will list all the hidden files and directories with the option -a
 LS ls -lna will do a long list, numeric IDs, hidden files and directory with the options -lna
 mkdir will make a directory with a specified path
 mv will move or rename files and directories
-rmdir will remmove files or directories
+rm will remmove files or directories
 
